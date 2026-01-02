@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langchain-text-splitters
+langchain-text-splitters
+python-dotenv
+langchain-google-genai
